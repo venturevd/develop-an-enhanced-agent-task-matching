@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agora-develop-an-enhanced-agent-task-matching"
+version = "0.1.0"
+description = "Develop an Enhanced Agent-Task Matching Platform with Dynamic Feedback"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "flask",
+]
+
+[tool.setuptools]
+py-modules = ["main"]
