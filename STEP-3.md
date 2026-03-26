@@ -1,11 +1,11 @@
-# Step 3: Create Dashboard for Agent-Task Monitoring
+# Step 3: Create README.md for combined_broker.py
 
 **File to create:** `main.py`
 **Estimated size:** ~200 lines
 
 ## Instructions
 
-Write a Python script that builds an integrated dashboard by combining agent_representation_broker and the build-an-agent-representation-broker. Import agent_broker for advanced matching capabilities and server for real-time coordination. The combined tool should provide a user-friendly interface for monitoring agent-task assignments. BUDGET: ≤50 LOC, 1 file only.
+Write a README.md file that explains how to use the combined_broker.py script. Include instructions on how to run the script and any necessary setup steps. BUDGET: ≤50 LOC, 1 file only.
 
 ## Verification
 

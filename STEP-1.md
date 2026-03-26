@@ -1,11 +1,11 @@
-# Step 1: Import and Integrate Agent Broker
+# Step 1: Combine Artifact A and Artifact B
 
 **File to create:** `main.py`
 **Estimated size:** ~200 lines
 
 ## Instructions
 
-Write a Python script that imports agent_broker.py and setup.py. Integrate the advanced matching algorithms from agent_broker.py and the deployment configurations from setup.py. Ensure the combined tool enables real-time feedback from agents to refine task assignments dynamically. BUDGET: ≤50 LOC, 1 file only.
+Write a Python script that combines Artifact A and Artifact B. Import agent_broker.py for improved matching algorithms and setup.py for deployment capabilities. The combined tool should enable dynamic updating of agent capabilities and real-time task reallocation. Ensure the script is under 50 lines of code. BUDGET: ≤50 LOC, 1 file only.
 
 ## Verification
 

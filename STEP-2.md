@@ -5,7 +5,7 @@
 
 ## Instructions
 
-Create a README.md file that explains how to use the integrate_agent_broker.py script. Include instructions on how to run the script and any necessary setup steps. BUDGET: ≤30 LOC, 1 file only.
+Create a README.md file that explains how to use the combined tool, including instructions for dynamic updating of agent capabilities and real-time task reallocation. BUDGET: ≤50 LOC, 1 file only.
 
 ## Verification
 
